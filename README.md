@@ -22,7 +22,7 @@ Dataset yang saya gunakan berasal dari Kaggle.<br>
 
 [Churn Modelling](https://www.kaggle.com/datasets/shubh0799/churn-modelling).
 
-### Variabel-variabel pada Diabetes Prediction with Logistic adalah sebagai berikut:
+### Variabel-variabel pada Churn Modelling adalah sebagai berikut:
 RowNumber : merepresentasikan nomor baris dari data, yang berguna untuk identifikasi urutan data dalam dataset.
 
 CustomerId : menunjukkan ID unik untuk setiap pelanggan dalam sistem, digunakan untuk membedakan satu pelanggan dengan yang lainnya.
