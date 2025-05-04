@@ -1,5 +1,5 @@
 # Laporan Proyek Machine Learning
-### Nama : Robi Nugraha
+### Nama : Robi Nugraha Irianto
 ### Nim : 211351130
 ### Kelas : Pagi C
 
